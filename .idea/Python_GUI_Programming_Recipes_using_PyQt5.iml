@@ -2,7 +2,8 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Section3_Enhancing_the_QT5_GUI _Functionality" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Section4_Advanced_Qt5_Programming/Section3_Enhancing_the_QT5_GUI _Functionality" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Section4_Advanced_Qt5_Programming" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
