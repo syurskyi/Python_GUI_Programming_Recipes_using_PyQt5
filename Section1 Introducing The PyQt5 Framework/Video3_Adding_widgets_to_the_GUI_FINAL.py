@@ -1,10 +1,4 @@
-'''
-Created on Aug 25, 2017
-
-@author: Burkhard A. Meier
-'''
-
-#-------------------------------------------------- 
+#--------------------------------------------------
 # class inheriting from QMainWindow
 # Refactored code for better readability
  
@@ -16,16 +10,14 @@ from PyQt5.QtGui import QIcon
 class GUI(QMainWindow):             # inherit from QMainWindow
     def __init__(self): 
         super().__init__()          # initialize super class, which creates the Window 
-        self.initUI()                           
- 
-         
+        self.initUI()
+
     def initUI(self):                       # set properties and add widgets        
         self.setWindowTitle('PyQt5 GUI')    # refer to Window as self
         self.resize(400, 300)               # resize window (width, height) 
         
         self.add_menus_and_status()
-        
-           
+
     def add_menus_and_status(self):        
         self.statusBar().showMessage('Text in statusbar')
         
