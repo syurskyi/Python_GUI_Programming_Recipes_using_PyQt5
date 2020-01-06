@@ -5,7 +5,7 @@ Created on Sep 20, 2017
 '''
 
 
-from Section3.Video2_MainWindow import Ui_MainWindow
+from Video2_MainWindow import Ui_MainWindow
 
 from PyQt5 import QtWidgets
 

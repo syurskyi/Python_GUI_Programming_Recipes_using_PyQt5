@@ -6,7 +6,7 @@ Created on Sep 21, 2017
 
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
-from Section3.Video3_MainWindow_Complex_7_FINAL_UI import Ui_MainWindow
+from Video3_MainWindow_Complex_7_FINAL_UI import Ui_MainWindow
 
 class MainWindow_EXEC():
     

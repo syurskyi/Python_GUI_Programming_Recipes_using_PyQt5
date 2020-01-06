@@ -7,7 +7,7 @@
 # WARNING! All changes made in this file will be lost!
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from Section3.Dialog import Ui_Dialog
+from Dialog import Ui_Dialog
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):

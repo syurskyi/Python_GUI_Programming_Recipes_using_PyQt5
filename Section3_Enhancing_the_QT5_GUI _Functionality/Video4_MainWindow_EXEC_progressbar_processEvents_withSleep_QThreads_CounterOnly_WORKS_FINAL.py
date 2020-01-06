@@ -9,7 +9,7 @@ from time import sleep
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import pyqtSlot, pyqtSignal
-from Section3.Video4_MainWindow_Complex_UI import Ui_MainWindow
+from Video4_MainWindow_Complex_UI import Ui_MainWindow
 
 
 class MainWindow_EXEC():

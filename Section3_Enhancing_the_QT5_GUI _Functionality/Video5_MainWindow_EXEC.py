@@ -8,7 +8,7 @@ import sys
 from time import sleep
 
 from PyQt5 import QtCore, QtWidgets
-from Section3.Video5_MainWindow_Complex_UI import Ui_MainWindow
+from Video5_MainWindow_Complex_UI import Ui_MainWindow
 
 
 class DragDropButton(QtWidgets.QPushButton):
